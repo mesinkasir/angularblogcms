@@ -1,0 +1,25 @@
+<div class="row">
+  <div class="embed-responsive embed-responsive-16by9 shadow rounded">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/7E-uPPqSrVg" allowfullscreen></iframe>
+</div>
+<div *ngFor="let blog of blogs; index as blogId" class="col-12 col-md-4 p-3">
+  <div class="card shadow rounded">
+  <img class="img-fluid"
+width="100%"
+ src="{{ blog.image }}" >
+  <div class=" card-body p-3 p-md-5">
+  <h2>
+    <a class="text-danger" [title]="blog.title + ' details'" [routerLink]="['/blogs', blogId]">
+      <strong>{{ blog.title }}</strong>
+    </a>
+  </h2>
+  <h3 *ngIf="blog.description">
+    {{ blog.description }}
+  </h3><br/>
+   <a class="button float-right btn btn-lg btn-danger rounded pill" [routerLink]="['/blogs', blogId]">
+  Detail info
+</a>
+</div>
+</div>
+</div>
+</div>

@@ -1,0 +1,10 @@
+<div *ngIf="blog">
+  <div class="container">
+  <h2><a href="/">{{ blog.name }}</a></h2>
+<img class="img-fluid rounded shadow"
+width="100%"
+ src="{{ blog.image }}" >
+  <h3>{{ blog.description }}</h3>
+<p class="lead">{{ blog.content }}</p>
+</div>
+</div>
