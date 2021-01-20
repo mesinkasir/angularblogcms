@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+![angular blog cms](https://a.fsdn.com/con/app/proj/angularapp/screenshots/Screenshot_2020-09-23%20Angular%20Blog.jpg/max/max/1)
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/angularblogcms/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# ANGULAR BLOG CMS
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Static modern blogging CMS platform
 
-### Markdown
+Blast fast with angular framework, this blogg apps is open source code, you can modify with you needed.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is a static version so no need databased , for update post article you can write content on blogs.ts file
 
-```markdown
-Syntax highlighted code block
+Stay connect with us, for update on dynamic version with real time firebase or mongo db for angular blog with databased.
 
-# Header 1
-## Header 2
-### Header 3
+![angular blog cms](https://a.fsdn.com/con/app/proj/angularapp/screenshots/Screenshot_2020-09-23%20Angular%20Blog.png/max/max/1)
 
-- Bulleted
-- List
+The Schema is very slim blog, just write content and fext url for image so with this angular blog make simple and fast for blogger.
 
-1. Numbered
-2. List
+lets get started now with angular blog.
 
-**Bold** and _Italic_ and `Code` text
+Download this angular blog cms , or clone fork it.
 
-[Link](url) and ![Image](src)
-```
+extract file to your project folder, and run 'npm install' for install this angular blog cms, and then get started with run 'ng serve' open web browser localhost:4200
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+for editing the code use a code editor like notepad ++ , VS code or other.
 
-### Jekyll Themes
+for demo : https://angularblog.stackblitz.io/
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/angularblogcms/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Happy blogging...
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+made with ❤ by https://mesinkasironline.web.app
