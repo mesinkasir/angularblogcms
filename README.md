@@ -1,5 +1,8 @@
 ![angular blog cms](https://a.fsdn.com/con/app/proj/angularapp/screenshots/Screenshot_2020-09-23%20Angular%20Blog.jpg/max/max/1)
 
+For full installation and documentation and live demo visit here :
+https://www.hockeycomputindo.com/2020/09/angular-blog-new-modern-with-seo.html
+
 # ANGULAR BLOG CMS
 
 ### Static modern blogging CMS platform
@@ -22,7 +25,8 @@ extract file to your project folder, and run 'npm install' for install this angu
 
 for editing the code use a code editor like notepad ++ , VS code or other.
 
-for demo : https://angularblog.stackblitz.io/
+For full installation and documentation and live demo visit here :
+https://www.hockeycomputindo.com/2020/09/angular-blog-new-modern-with-seo.html
 
 Happy blogging...
 
