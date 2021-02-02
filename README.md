@@ -28,6 +28,8 @@ for editing the code use a code editor like notepad ++ , VS code or other.
 For full installation and documentation and live demo visit here :
 https://www.hockeycomputindo.com/2020/09/angular-blog-new-modern-with-seo.html
 
+Demo this web apps : [click here](https://ng-build.web.app/)
+
 Happy blogging...
 
 
