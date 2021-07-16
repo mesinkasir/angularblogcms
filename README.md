@@ -1,4 +1,4 @@
-![angular blog cms](https://a.fsdn.com/con/app/proj/angularapp/screenshots/Screenshot_2020-09-23%20Angular%20Blog.jpg/max/max/1)
+![angular blog cms](https://1.bp.blogspot.com/-U7rUuk6SdcM/X3MEc2N7sxI/AAAAAAAALg8/IFHfSebKqW0HzIwsMwEHmp6K1aTEJViugCLcBGAsYHQ/s2048/Screenshot_2020-09-23%2BAngular%2BBlog.jpg)
 
 For full installation and documentation and live demo visit here :
 https://www.hockeycomputindo.com/2020/09/angular-blog-new-modern-with-seo.html
