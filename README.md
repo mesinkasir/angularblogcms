@@ -1,5 +1,7 @@
 ![angular blog cms](https://1.bp.blogspot.com/-U7rUuk6SdcM/X3MEc2N7sxI/AAAAAAAALg8/IFHfSebKqW0HzIwsMwEHmp6K1aTEJViugCLcBGAsYHQ/s2048/Screenshot_2020-09-23%2BAngular%2BBlog.jpg)
 
+[Demo and deploy →](https://ng-build.web.app)
+
 For full installation and documentation and live demo visit here :
 https://www.hockeycomputindo.com/2020/09/angular-blog-new-modern-with-seo.html
 
