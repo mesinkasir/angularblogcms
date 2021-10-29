@@ -13,7 +13,7 @@ Blast fast with angular framework, this blogg apps is open source code, you can 
 
 This is a static version so no need databased , for update post article you can write content on blogs.ts file
 
-Stay connect with us, for update on dynamic version with real time firebase or mongo db for angular blog with databased.
+project on stackblitz + deploy on firebase
 
 ![angular blog cms](https://camo.githubusercontent.com/9f0e7e8deb3585337b94768ab52eb0e3bd7283d2d1016df78df52368afd9fe4e/68747470733a2f2f612e6673646e2e636f6d2f636f6e2f6170702f70726f6a2f70686f6e656978732f73637265656e73686f74732f53637265656e73686f745f323032302d30392d3234253230416e67756c6172426c6f672532302d253230436f70792e6a70672f6d61782f6d61782f31)
 
@@ -30,7 +30,7 @@ for editing the code use a code editor like notepad ++ , VS code or other.
 For full installation and documentation and live demo visit here :
 https://www.hockeycomputindo.com/2020/09/angular-blog-new-modern-with-seo.html
 
-Demo this web apps : [click here](https://ng-build.web.app/)
+Demo this web apps : [click here →](https://ng-build.web.app/)
 
 Happy blogging...
 
